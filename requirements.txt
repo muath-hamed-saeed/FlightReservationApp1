@@ -1,0 +1,3 @@
+# Tkinter is usually built-in with Python.
+# PyInstaller is for creating the .exe file.
+pyinstaller
